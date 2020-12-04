@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, cache-hazelcast, config-consul, config4k, consul, dekorate-jaeger, dekorate-kubernetes, dekorate-prometheus, discovery-consul, elasticsearch, github-workflow-docker-registry, gradle, graphql, http-client, jackson-xml, jib, kafka, kafka-streams, kotest, kotlin, kotlin-extension-functions, ktor, kubernetes, liquibase, log4j2, management, micrometer, micrometer-elastic, micrometer-prometheus, multi-tenancy, nats, netflix-ribbon, openapi, postgres, readme, security-annotations, security-jwt, spring, testcontainers, tracing-jaeger]
